@@ -1,7 +1,7 @@
 
 # Projeto Git-Fav
 
-Proposed project by RocketSeat with the aim of testing the knowledge about:
+Proposed project by RocketSeat (stage 07) with the aim of testing the knowledge about:
 - Immutability
 - LocalStorage
 - Promises
