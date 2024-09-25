@@ -1,10 +1,10 @@
 
 # Projeto Git-Fav
 
-Projeto proposto pela RocketSeat com o intuito de colocar em prova o conhecimento sobre:
-- Imutabilidade
+Proposed project by RocketSeat with the aim of testing the knowledge about:
+- Immutability
 - LocalStorage
-- Promessas
+- Promises
 - Async Await
 ## 🛠 Skills
 Javascript, HTML & CSS
